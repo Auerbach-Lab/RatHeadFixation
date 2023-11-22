@@ -1,0 +1,20 @@
+														mouse	rat
+narrowest facial bone distance							3.4		5.6
+frontal distance, at zygoma midpoint					4.4		9.4
+frontal distance, above mandibular coronoid process		5.6		12.6
+parietal distance, through bregma						9.1		13.1
+parietal distance, through lambda, inside crests		6.9?	12.1
+narrowest interparietal span							5.4		9.9
+
+superior cranial width									9.9		14.0
+peak height over supraorbital ridge						1.9		2.1
+
+
+fore brace is between zygoma midpoint and bregma
+rear brace is just behind lambda
+
+
+anterior  face of fore brace, intra-arch distance		3.65	~ narrowest facial
+posterior face of fore brace, intra-arch distance		4.95	< coronoid width
+anterior  face of rear brace, intra-arch distance		6.05	< lambda width
+posterior face of rear brace, intra-arch distance		5.37	= narrowest interparietal
