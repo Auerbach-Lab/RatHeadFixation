@@ -69,7 +69,6 @@ clearance behind the rat, such as when using a floating ball setup.
 8. Allow the cement to set for 6 minutes (and allow at least 30 minutes before applying force to the headplate). Afterward, leave no part of the cranium exposed to air.
 
 ### Notes
-
  - Store the ceramic mixing dish in the freezer to ensure it is thoroughly chilled before use.
  - For best results, store mixing dish upside down, with water added to fill the base so that the entire dish is in contact with ice for the procedure.
  - Cured cement on instruments or the mixing dish can be softened by soaking in acetone or chloroform.
@@ -83,12 +82,15 @@ clearance behind the rat, such as when using a floating ball setup.
 **Hight Mouse Head Fixation System**
 Sandra Romero, Ariel E Hight, Kameron K Clayton, Jennifer Resnik, Ross S Williamson, Kenneth E Hancock, Daniel B Polley, Cellular and Widefield Imaging of Sound Frequency Organization in Primary and Higher Order Fields of the Mouse Auditory Cortex, _Cerebral Cortex_, Volume 30, Issue 3, March 2020, Pages 1603–1622, https://doi.org/10.1093/cercor/bhz190
 
+**3D .stl File of Rat Skull**
+M. Pohl, Bernd; Fernando Gasca; Olaf Christ; Hofmann, Ulrich G. (2013): 3D .stl file of rat skull. figshare. Dataset. https://doi.org/10.6084/m9.figshare.777745.v1
+
+**3D .stl File of Mouse Skull**
+Rowe T, Demarest M. (2001): "Mus musculus". Dataset: Digital Morphology. http://digimorph.org/specimens/Mus_musculus/
+
 **Mouse Skull from Mouse skull (from micro-CT)**
 https://www.thingiverse.com/thing:20200 by [MarkU](https://www.thingiverse.com/MarkU)
 ![Creative Commons Attribution License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)
-
-**3D .stl File of Rat Skull**
-M. Pohl, Bernd; Fernando Gasca; Olaf Christ; Hofmann, Ulrich G. (2013): 3D .stl file of rat skull. figshare. Dataset. https://doi.org/10.6084/m9.figshare.777745.v1
 
 **16X Nikon CFI LWD Plan Fluorite Objective - CAD files**
 https://www.thorlabs.com/thorproduct.cfm?partnumber=N16XLWD-PF
