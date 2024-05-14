@@ -1,0 +1,28 @@
+part									description					qty
+https://www.mcmaster.com/91075A198		1.5" lg 1/4-20 standoff		4
+https://www.mcmaster.com/91075A196		1.0" lg 1/4-20 standoff		2
+https://www.mcmaster.com/91075A258		3/4" lg 1/4-20 standoff		2
+https://www.mcmaster.com/91075A192		0.5" lg 1/4-20 standoff		2
+https://www.mcmaster.com/91197A420   	0.5" lg 1/4-20 standoff		2
+https://www.mcmaster.com/91197A430		5/8" lg 1/4-20 standoff		2
+https://www.mcmaster.com/91197A440/		3/4" lg 1/4-20 standoff		2
+
+https://www.mcmaster.com/5720K25		6-32 cam clamp 3/8" lg		2
+https://www.mcmaster.com/90247A008		6-32 to 1/4-20 inserts		1 (pkg of 5)
+
+For 00-96 holes:
+https://www.mcmaster.com/90910A440		00-96 screws, torx+, 1/8"	1 (pkg of 100)
+https://www.mcmaster.com/54305A42		IP2 torx+ bit				2
+https://www.mcmaster.com/52815A22		ratcheting driver			1
+
+For 00-90 holes:
+https://www.mcmaster.com/96710A050/		00-90 screws, torx+, 1/8"	4 (pkg of 25)
+https://www.mcmaster.com/54305A42		IP2 torx+ bit				2
+https://www.mcmaster.com/52815A22		ratcheting driver			1
+
+For 0-80 holes:
+https://www.mcmaster.com/90910A665/		0-80 screws, torx+, 1/8"	4 (pkg of 25)
+https://www.mcmaster.com/54305A18/		IP5 torx+ bit				2
+https://www.mcmaster.com/52815A22		ratcheting driver			1
+
+
