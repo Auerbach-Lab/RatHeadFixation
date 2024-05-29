@@ -17,11 +17,11 @@ This is a novel head fixation system for adult laboratory rats, suitable for aud
 
 **Button-head torx screws, #0-80 thread, 1/8" long** -- Two bone screws are optionally used per headplate, e.g. [McMaster #90910A665](https://www.mcmaster.com/90910A665/). The headplates are to be tapped with #0-80 threads on the provided holes to mate with the screws. The 1/8" length is sized so that the screw tip should penetrate the skull but not the dura when fully driven.
 
-**IP5 Torx-plus bit and driver** -- Socket head screws are driven using a torx+ bit, e.g. [McMaster #54305A18](https://www.mcmaster.com/54305A18/). A mini ratcheting 1/4" shank driver e.g. [McMaster #52815A22](https://www.mcmaster.com/52815A22/) is appropriate for such these bits.
+**Torx-plus bit (size IP5) & driver** -- Socket head screws are driven using a torx+ bit, e.g. [McMaster #54305A18](https://www.mcmaster.com/54305A18/). A mini ratcheting 1/4" shank driver e.g. [McMaster #52815A22](https://www.mcmaster.com/52815A22/) is appropriate for such these bits.
 
-**1.35mm Spiral or burr drill bit** -- #0 (1.59mm) screws are intended for use with a 1.35mm diameter hole. For a 3.175mm shank, consider e.g. [McMaster #6415NM179](https://www.mcmaster.com/6415N179/), but first verify compatiblity with the dental drill in use. 
+**Spiral or burr drill bit, 1.35mm diameter** -- #0 (1.59mm) screws are intended for use with a 1.35mm diameter hole. For a 3.175mm shank, consider e.g. [McMaster #6415NM179](https://www.mcmaster.com/6415N179/), but first verify compatiblity with the dental drill in use. 
 
-**1/4"-20 Standoffs, various lengths** -- A variety lengths of [standoffs](https://www.mcmaster.com/products/male-female-threaded-hex-standoffs/male-female-threaded-hex-standoffs-6/thread-size~1-4-20/material~stainless-steel-2/material~18-8-stainless-steel/), all of which can mate with the ThorLabs table and each other. These provide the clamping surface used with either end of the headplate. Extra standoffs allow use in combination to assemble a clamping surface at any desired height above the bed of the table.
+**Standoffs, 1/4"-20 thread, various lengths** -- A variety lengths of [standoffs](https://www.mcmaster.com/products/male-female-threaded-hex-standoffs/male-female-threaded-hex-standoffs-6/thread-size~1-4-20/material~stainless-steel-2/material~18-8-stainless-steel/), all of which can mate with the ThorLabs table and each other. These provide the clamping surface used with either end of the headplate. Extra standoffs allow use in combination to assemble a clamping surface at any desired height above the bed of the table.
 
 **Threaded inserts, #6-32 to 1/4"-20** -- 
 Use threaded inserts, e.g. [McMaster #90247A008](https://www.mcmaster.com/90247A008) in the shortest pair of standoffs and with the pair of the most commonly used length. The inserts allow mating with the cam clamps that top the standoffs in use. Installation of threaded inserts is permanent. 
