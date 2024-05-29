@@ -11,7 +11,7 @@ This is a novel head fixation system for adult laboratory rats, suitable for aud
 
 
 ## Parts
-**Assembly - v4** -- The headplate and fixation aseembly. Headplates can be 3d printed in stainless steel (such as 316) from a variety of manufacturers; [Craftcloud](craftcloud3d.com) allows easy comparison shopping. 
+**Assembly - v4** -- The headplate and fixation aseembly. Headplates can be 3d printed in stainless steel (such as 316) from a variety of manufacturers; [Craftcloud](craftcloud3d.com) allows easy comparison shopping. The leading edge of the headplate sits roughly along the coronal suture when properly positioned on the skull.
 
 **Drilling template** -- Cut-down headplate with substantially reduced thickness to facilitate marking locations of screw holes onto the skull. Print in same material (i.e. steel) at same scaling compensation as the main headplate to ensure identical spacing.
 
@@ -26,4 +26,14 @@ This is a novel head fixation system for adult laboratory rats, suitable for aud
 **Threaded inserts, #6-32 to 1/4"-20** -- 
 Use threaded inserts, e.g. [McMaster #90247A008](https://www.mcmaster.com/90247A008) in the shortest pair of standoffs and with the pair of the most commonly used length. The inserts allow mating with the cam clamps that top the standoffs in use. Installation of threaded inserts is permanent. 
 
-**Clamping handle with threaded stud, #6-32 thread, 3/8" long**  -- These clamps, e.g. [McMaster #5720K25](https://www.mcmaster.com/5720K25/) are fastened to the top standoffs in use, with the aid of the threaded inserts. They should be threaded into the standoff so that the plate can be quickly inserted onto the exposed threaded stud, so that the plate is sandwiched between the circular plastic piece above and the standoff's surface below. Operating a clamp can be done one-handed in approximately a single second. When engaged, clamps exert up to 1400 N of clamping force. 
+**Clamping handle with threaded stud, #6-32 thread, 3/8" long**  -- These clamps, e.g. [McMaster #5720K25](https://www.mcmaster.com/5720K25/) are fastened to the top standoffs in use, with the aid of the threaded inserts. They should be threaded into the standoff so that the plate can be quickly inserted onto the exposed threaded stud, so that the plate is sandwiched between the circular plastic piece above and the standoff's surface below. Operating a clamp can be done one-handed in approximately a single second. When engaged, clamps exert up to 1400 N of clamping force.
+
+## Assembly
+![Partial assembly, showing interactions of pieces in use](https://i.imgur.com/H8aa3JQ.png)
+Partial assembly, showing relationships of pieces in use: two stacked standoffs, cam clamp, bone screw, and headplate. Yellow crosshairs indicate probe locations for PFC, IC, and AC. Note the position of the headplate relative to the corornal suture. The headplate fits standoffs positioned exactly 2" apart; the hole spacing on the ThorLabs air table is 1", so there will be one empty hole between the two locations where standoffs are inserted.
+<br><br><br>
+
+![Partial assembly, showing position of lab rat](https://i.imgur.com/ldL236T.png) Above, with position of lab rat visualized. A shorter standoff (not pictured) may be used in the center position between the standoffs used for clamps, to support the animal's jaw and head.
+<br><br><br>
+
+![Half-section view, showing fit of screw with skull](https://i.imgur.com/Kcz6h7f.png) Half-section view, showing fit of 1/8" length screw with skull's interior surface. Skull is modeled from a CT scan. One half of one thread (0.5/80", ~0.16mm) of the screw protrudes into the cranial cavity when the screw is fully threaded, while the other half of the screw is fully embedded in cranium. This is deliberate, to ensure that the surgeon can always get several complete threads into the full thickness of skull available. If a more conservative approach is needed, fit the screw to the implant before applying metabond and before affixing to skull. Drive the screw to the desired depth of protrusion from the bottom of the plate, then back the screw to recess from that surface while counting the number of revolutions travelled counterclockwise. Then, when affixing to skull, use the same number of revolutions clockwise to drive screw to predetermined depth.
