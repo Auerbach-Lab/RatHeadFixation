@@ -15,7 +15,7 @@ This is a novel head fixation system for adult laboratory rats, suitable for aud
 
 **Drilling template** -- Cut-down headplate with substantially reduced thickness to facilitate marking locations of screw holes onto the skull. Print in same material (i.e. steel) at same scaling compensation as the main headplate to ensure identical spacing.
 
-**Button-head torx screws, #0-80 thread, 1/8" long** -- Two bone screws are optionally used per headplate, e.g. [McMaster #90910A665](https://www.mcmaster.com/90910A665/). The headplates are to be tapped with #0-80 threads on the provided holes to mate with the screws. The 1/8" length is sized so that the screw tip should penetrate the skull but not the dura when fully driven.
+**Button-head torx screws, #0-80 thread, 1/8" long** -- Two bone screws are optionally used per headplate, e.g. [McMaster #90910A665](https://www.mcmaster.com/90910A665/). The headplates are to be tapped with #0-80 threads on the provided holes to mate with the screws. The 1/8" length is sized so that the screw tip should penetrate the skull but not the dura when fully driven. The screws are intended for additional security only, as the thickness of the skull only allows approximately 1.5 complete threads embedded in bone, and requires precision on drilled hole diameter on the order of 50 microns to avoid easily pulling free. **C&B MetaBond should be used as the primary affixative** of the headplate. 
 
 **Torx-plus bit (size IP5) & driver** -- Socket head screws are driven using a torx+ bit, e.g. [McMaster #54305A18](https://www.mcmaster.com/54305A18/). A mini ratcheting 1/4" shank driver e.g. [McMaster #52815A22](https://www.mcmaster.com/52815A22/) is appropriate for such these bits.
 
