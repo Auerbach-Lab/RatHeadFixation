@@ -1,7 +1,7 @@
 # Rat Head Fixation System
 
  - **Author:** Brian James, \<james29@illinois.edu>
- - **Date:** 2024-05-29
+ - **Date:** 2024-06-05
  - **Version:** 2.4
  - **Primary Investigator:** Ben Auerbach, Auerbach Lab, University of Illinois \<bda5@illinois.edu>
 
