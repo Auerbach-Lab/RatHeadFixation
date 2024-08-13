@@ -32,7 +32,7 @@ Threaded inserts [McMaster #90247A008](https://www.mcmaster.com/90247A008) are i
 
 ## Assembly
 ![Partial assembly, showing interactions of pieces in use](https://i.imgur.com/H8aa3JQ.png)
-Partial assembly, showing relationships of pieces in use: two stacked standoffs, cam clamp, bone screw, and headplate. Yellow crosshairs indicate probe locations for PFC, IC, and AC. Note the position of the headplate relative to the corornal suture. The headplate fits standoffs positioned exactly 2" apart; the hole spacing on the ThorLabs air table is 1", so there will be one empty hole between the two locations where standoffs are inserted.
+Partial assembly, showing relationships of pieces in use: two stacked standoffs, cam clamp, bone screw, and headplate. Yellow crosshairs indicate probe locations for PFC, IC, and AC. **Note the position of the headplate relative to the corornal suture.** The headplate fits standoffs positioned exactly 2" apart; the hole spacing on the ThorLabs air table is 1", so there will be one empty hole between the two locations where standoffs are inserted.
 <br><br><br>
 
 ![Partial assembly, showing position of lab rat](https://i.imgur.com/ldL236T.png) Above, with position of lab rat visualized. A shorter standoff (not pictured) may be used in the center position between the standoffs used for clamps, to support the animal's jaw and head.
